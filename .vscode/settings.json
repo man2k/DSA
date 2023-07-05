@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.jsx": "javascript",
+        "*.l": "lex",
+        "*.mojo": "python",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    }
+}
