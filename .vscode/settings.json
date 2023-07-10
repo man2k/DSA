@@ -4,6 +4,7 @@
         "*.l": "lex",
         "*.mojo": "python",
         "stdio.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "iostream": "cpp"
     }
 }
