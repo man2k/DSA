@@ -6,5 +6,10 @@
         "stdio.h": "c",
         "stdlib.h": "c",
         "iostream": "cpp"
-    }
+    },
+    "rust-analyzer.linkedProjects": [
+        ".\\learning-Rust\\Cargo.toml",
+        ".\\learning-Rust\\Cargo.toml",
+        ".\\learning-Rust\\Cargo.toml"
+    ]
 }
