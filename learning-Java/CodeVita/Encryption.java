@@ -48,5 +48,6 @@ public class Encryption {
         encrypt(k,s);
         long endTime = System.currentTimeMillis();
         System.out.println("Total execution time: " + (endTime-startTime) + "ms"); 
+        inp.close();
     }
 }
