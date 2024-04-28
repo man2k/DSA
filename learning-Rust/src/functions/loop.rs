@@ -7,6 +7,7 @@ pub fn main() {
             break;
         }
     }
+    // labled break
     'outer: for x in 1..5 {
         println!("x : {x}");
         let mut i = 0;

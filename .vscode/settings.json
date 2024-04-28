@@ -10,6 +10,10 @@
     "rust-analyzer.linkedProjects": [
         ".\\learning-Rust\\Cargo.toml",
         ".\\learning-Rust\\Cargo.toml",
+        ".\\learning-Rust\\Cargo.toml",
+        ".\\learning-Rust\\Cargo.toml",
+        ".\\learning-Rust\\Cargo.toml",
         ".\\learning-Rust\\Cargo.toml"
-    ]
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
 }

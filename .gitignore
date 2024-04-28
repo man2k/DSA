@@ -1,3 +1,6 @@
 *.exe
 */InterviewQNA
 */practice
+.exe
+.pdb
+*/target
